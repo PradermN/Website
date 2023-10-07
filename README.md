@@ -1,3 +1,3 @@
 # Website
 
-After learning htlm5 andd css3 I programmed this website.
+After learning HTML5 and CSS3, I developed this website to put my acquired knowledge into practice.
